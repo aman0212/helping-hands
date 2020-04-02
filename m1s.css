@@ -1,0 +1,22 @@
+body{ background-color:ghostwhite}
+.one{ 
+
+font-size: 30px;
+font-family:'Orbitron';
+text-align: center;
+background-color:aliceblue;
+    text-shadow: 1px 1px 3px grey; 
+}
+.two{ 
+    text-align: center;
+    font-size:25px;}
+.three{ 
+background-attachment: fixed;}
+button{
+text-align: center;
+font-size: 15px;
+}
+.three{ font-size: 25px;
+    font-family:'Amatic SC';
+    color: white
+}

@@ -1,0 +1,42 @@
+
+
+.first{
+    font-size: 40px;
+    text-align: center;
+    font-family:'Amatic SC';
+    background: linear-gradient(#eee,#ffffff );
+    }
+.second{
+background-image:url();
+    background-size:contain;
+    font-size: 23px;
+    font-family:Orbitron;
+    
+    box-shadow: 2px 2px 2px #ccffff ;
+    opacity: 0.75
+    }
+.third{
+    
+    font-family: 'Sacramento';
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 1px 1px 1px #ccffff;
+    text-decoration: none;
+    }
+table{font-size: 25px;
+    text-align: center;
+    font-family:'Amatic SC'; }
+img{ max-width: 100%;
+     height: auto;
+padding:5px;}
+.bording{ 
+    border-radius: 30px;
+    width: 300px;
+    height: 250px; border:2px solid black;
+    padding 5px;
+    
+    
+}
+    
+    
+ 
